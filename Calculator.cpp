@@ -1,3 +1,20 @@
+/*
+-----------------------------------------
+Project Title : Advanced Calculator
+Language      : C++
+Internship    : CodSoft C++ Programming
+
+Description:
+This program is a simple command-line calculator that performs
+basic arithmetic operations such as addition, subtraction,
+multiplication, and division. It allows the user to enter two
+numbers, choose an operation, displays the result, handles
+division by zero, and supports multiple calculations.
+
+Author : Chandrika Mannem
+-----------------------------------------
+*/
+
 #include <iostream>
 #include <limits>
 using namespace std;
